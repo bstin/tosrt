@@ -8,6 +8,6 @@ The script accomplishes two main things:
 # Usage:
     python tosrt.py [filename]
 
-Where 'filename' is subtitle file in VTT format
+Where `filename` is subtitle file in VTT format
 
-Output will be written to name filename.srt
+Output will be written to name `filename.srt`
